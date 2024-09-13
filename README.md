@@ -33,3 +33,9 @@ We observed that checking for attacks along rows and diagonals was the most chal
 3. Hill Climbing Algorithm:
 We worked together on the main part of the project, the hill climbing function. It involved evaluating neighboring queen placements and moving toward configurations with fewer conflicts.
 We quickly noticed that hill climbing often got stuck in local optima. This was an important realization: hill climbing excels at local search, but without random restarts, it can easily settle on suboptimal solutions.
+
+# OUTPUT:
+
+![alt text](image-1.png)
+
+![alt text](image.png)
